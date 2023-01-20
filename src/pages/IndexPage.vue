@@ -30,7 +30,7 @@
         group="somegroup6"
         icon="ti-angle-down"
         label="UACE"
-        default-opened
+        default-closed
         :header-style="{ backgroundColor: 'gray' }"
       >
         <q-card>
@@ -49,7 +49,7 @@
         group="somegroup5"
         icon="ti-angle-down"
         label="PLE"
-        default-opened
+        default-closed
         :header-style="{ backgroundColor: 'gray' }"
       >
         <q-card>
@@ -68,7 +68,7 @@
         group="somegroup4"
         icon="ti-angle-down"
         label="UCE"
-        default-opened
+        default-closed
         :header-style="{ backgroundColor: 'gray' }"
       >
         <q-card>
@@ -87,7 +87,7 @@
         group="somegroup3"
         icon="ti-angle-down"
         label="PreMocks"
-        default-opened
+        default-closed
         :header-style="{ backgroundColor: 'gray' }"
       >
         <q-card>
@@ -106,7 +106,7 @@
         group="somegroup2"
         icon="ti-angle-down"
         label="LOREM TITLE"
-        default-opened
+        default-closed
         :header-style="{ backgroundColor: 'gray' }"
       >
         <q-card>
@@ -125,7 +125,7 @@
         group="somegroup1"
         icon="ti-angle-down"
         label="LOREM TITLE"
-        default-opened
+        default-closed
         :header-style="{ backgroundColor: 'gray' }"
       >
         <q-card>
@@ -187,120 +187,51 @@
 
     <div class="q-pa-md">
     <q-card class="my-card">
-      <q-parallax
-        src="../assets/man-pulling-oxen.jpeg"
-        :height="70"
-      />
+      <div class="container sections" id="xc">
+       <div class="section_item img">
+         <img src="../assets/trees.svg" alt=""></div>
+       <div class="section_item caption">
+         <h4>ONITA For Learners</h4>
+         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo totam corrupti cupiditate corporis temporibus unde non optio eius deleniti </p>
+         <LoginBtn btn="Something.."/>
+         </div>
+     </div>
 
-      <q-card-section>
-        <div class="text-h6">Our Changing Planet</div>
-        <div class="text-subtitle2">by John Doe</div>
-      </q-card-section>
+      <div class="container sections">
+       <div class="section_item img">
+         <img src="../assets/trees.svg" alt="">
+       </div>
+       <div class="section_item caption">
+         <h4>ONITA For Parents</h4>
+         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo totam corrupti cupiditate corporis temporibus unde non optio eius deleniti </p>
+         <LoginBtn btn="Something.."/>
+       </div>
+     </div>
+
+      <div class="container sections">
+       <div class="section_item img">
+         <img src="../assets/trees.svg" alt="">
+       </div>
+       <div class="section_item caption">
+         <h4>ONITA For Teachers</h4>
+         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo totam corrupti cupiditate corporis temporibus unde non optio eius deleniti </p>
+         <LoginBtn btn="Something.."/>
+       </div>
+     </div>
+
+      <div class="container sections">
+       <div class="section_item img">
+         <img src="../assets/trees.svg" alt="">
+       </div>
+       <div class="section_item caption">
+         <h4>ONITA For Schools</h4>
+         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo totam corrupti cupiditate corporis temporibus unde non optio eius deleniti </p>
+         <LoginBtn btn="Something.."/>
+     </div></div>
     </q-card>
   </div>
 
-    <div class="q-px-lg q-pb-md bg-white text-white">
-      <q-timeline dark color="blue">
-        >
 
-        <q-timeline-entry>
-          <CardSections />
-        </q-timeline-entry>
-
-        <q-timeline-entry title="ONITA For Parents">
-          <div>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.
-          </div>
-        </q-timeline-entry>
-
-        <q-timeline-entry title="ONITA For Schools">
-          <div>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.
-          </div>
-        </q-timeline-entry>
-
-        <q-timeline-entry heading class="text-align-center"
-          >Onita</q-timeline-entry
-        >
-
-        <q-timeline-entry title="Event title">
-          <div>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.
-          </div>
-        </q-timeline-entry>
-
-        <q-timeline-entry title="Event Title" subtitle="February 22, 1986">
-          <div>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.
-          </div>
-        </q-timeline-entry>
-
-        <q-timeline-entry
-          title="Event Title"
-          subtitle="February 22, 1986"
-          color="orange"
-          icon="done_all"
-        >
-          <div>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.
-          </div>
-        </q-timeline-entry>
-
-        <q-timeline-entry title="Event Title" subtitle="February 22, 1986">
-          <div>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.
-          </div>
-        </q-timeline-entry>
-
-        <q-timeline-entry title="Event Title" subtitle="February 22, 1986">
-          <div>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.
-          </div>
-        </q-timeline-entry>
-      </q-timeline>
-    </div>
     ipsum consequuntur soluta. Quisquam sunt quis et iusto rerum iure
     necessitatibus repellendus quaerat dicta, cupiditate fugiat optio architecto
     quod quo asperiores! Voluptate quos molestiae esse blanditiis, veniam
@@ -429,7 +360,6 @@ export default defineComponent({
 
   components: {
     LoginBtn,
-    CardSections,
   },
   setup() {
     return {
@@ -514,7 +444,23 @@ h3.why {
   font-weight: 450;
 }
 
+/*section*/
+.sections {
+  margin-top: 10%;
+  padding: 0px 100px;
+  background-color: white;
+}
+.section_item {
+  width: 450px;
+  padding: 0px 50px;
+  text-align: center;
+  background-color: white;
+}
+
+.section_item:last-child {
+  text-align: left;
+}
 .my-card {
-  width: 100%;
-  max-width: 500px}
+  padding: 20px 5px;
+}
 </style>
