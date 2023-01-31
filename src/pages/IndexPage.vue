@@ -157,7 +157,7 @@
       </div>
       <div class="item_container">
         <div class="img">
-          <q-icon name="verified_user" color="red-4" size="50px"/>
+          <q-icon name="verified_user" color="red-4" size="50px" />
         </div>
         <div class="item_header">
           <h4>Recognized By UNEB</h4>
@@ -184,91 +184,93 @@
       </div>
     </div>
 
-
     <div class="q-pa-md">
-    <q-card class="my-card">
-      <div class="container sections" id="xc">
-       <div class="section_item img">
-         <img src="../assets/trees.svg" alt=""></div>
-       <div class="section_item caption">
-         <h4>ONITA For Learners</h4>
-         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo totam corrupti cupiditate corporis temporibus unde non optio eius deleniti </p>
-         <LoginBtn btn="Something.."/>
-         </div>
-     </div>
+      <q-card class="my-card">
+        <div class="container sections" id="xc">
+          <div class="section_item img">
+            <img src="../assets/students-lessonup.png" alt="" />
+          </div>
+          <div class="section_item caption">
+            <h4>ONITA For Learners</h4>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo
+              totam corrupti cupiditate corporis temporibus unde non optio eius
+              deleniti
+            </p>
+            <LoginBtn btn="Something.." />
+          </div>
+        </div>
 
-      <div class="container sections">
-       <div class="section_item img">
-         <img src="../assets/trees.svg" alt="">
-       </div>
-       <div class="section_item caption">
-         <h4>ONITA For Parents</h4>
-         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo totam corrupti cupiditate corporis temporibus unde non optio eius deleniti </p>
-         <LoginBtn btn="Something.."/>
-       </div>
-     </div>
+        <div class="container sections">
+          <div class="section_item img">
+            <img src="../assets/parents.png" alt="" />
+          </div>
+          <div class="section_item caption">
+            <h4>ONITA For Parents</h4>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo
+              totam corrupti cupiditate corporis temporibus unde non optio eius
+              deleniti
+            </p>
+            <LoginBtn btn="Something.." />
+          </div>
+        </div>
 
-      <div class="container sections">
-       <div class="section_item img">
-         <img src="../assets/trees.svg" alt="">
-       </div>
-       <div class="section_item caption">
-         <h4>ONITA For Teachers</h4>
-         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo totam corrupti cupiditate corporis temporibus unde non optio eius deleniti </p>
-         <LoginBtn btn="Something.."/>
-       </div>
-     </div>
+        <div class="container sections">
+          <div class="section_item img">
+            <img src="../assets/teacher.png" alt="" />
+          </div>
+          <div class="section_item caption">
+            <h4>ONITA For Teachers</h4>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo
+              totam corrupti cupiditate corporis temporibus unde non optio eius
+              deleniti
+            </p>
+            <LoginBtn btn="Something.." />
+          </div>
+        </div>
 
-      <div class="container sections">
-       <div class="section_item img">
-         <img src="../assets/trees.svg" alt="">
-       </div>
-       <div class="section_item caption">
-         <h4>ONITA For Schools</h4>
-         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo totam corrupti cupiditate corporis temporibus unde non optio eius deleniti </p>
-         <LoginBtn btn="Something.."/>
-     </div></div>
-    </q-card>
-  </div>
+        <div class="container sections">
+          <div class="section_item img">
+            <img src="../assets/school-building.jpeg" alt="" />
+          </div>
+          <div class="section_item caption">
+            <h4>ONITA For Schools</h4>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo
+              totam corrupti cupiditate corporis temporibus unde non optio eius
+              deleniti
+            </p>
+            <LoginBtn btn="Something.." />
+          </div>
+        </div>
+      </q-card>
+    </div>
 
+    <div class="container testimonials bg-grey q-pa-125px ">
+      
+    </div>
 
-    ipsum consequuntur soluta. Quisquam sunt quis et iusto rerum iure
-    necessitatibus repellendus quaerat dicta, cupiditate fugiat optio architecto
-    quod quo asperiores! Voluptate quos molestiae esse blanditiis, veniam
-    deserunt pariatur nihil aliquam est nulla ipsam odit. Laudantium mollitia
-    aliquid recusandae impedit distinctio quis repellat non earum libero aliquam
-    sunt ipsum, natus possimus odit cum pariatur perferendis harum molestias
-    neque ullam. Adipisci minima consectetur a vitae? Impedit dolore quibusdam
-    sed quod sit pariatur cupiditate saepe iure esse consequatur aliquid totam,
-    facilis reprehenderit velit id possimus necessitatibus vel in repellendus.
-    Voluptas, adipisci molestiae! Voluptatum ducimus quis voluptas sapiente
-    minima placeat perspiciatis tempora architecto, esse velit exercitationem.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Omnis dignissimos
-    voluptatum numquam. Repellat ad rerum voluptates impedit sapiente a, esse
-    vitae. Beatae repellendus odit facere veritatis velit cum illum numquam
-    tempore, dolorem ducimus, ipsam fugit, optio ad culpa quas reprehenderit
-    fuga saepe eligendi minima! Non pariatur, ipsam amet expedita quasi
-    laudantium quia officia quae officiis enim doloribus voluptate corporis aut
-    temporibus asperiores optio illum, dolorem aliquam nobis. Eveniet
-    exercitationem obcaecati temporibus saepe corporis, voluptates culpa ea
-    veniam expedita corrupti. Veniam eaque nulla veritatis, exercitationem ipsam
-    impedit modi aperiam eos! Voluptate neque unde dolores recusandae rem
-    dignissimos quo voluptatum repellat at? Sit optio assumenda fugiat quo,
-    doloremque necessitatibus quaerat commodi dolore cum rerum laboriosam
-    nostrum nobis rem et, porro dolores soluta aliquid facilis sequi animi neque
-    labore sed voluptates ipsa? Aperiam dignissimos placeat debitis delectus
-    expedita, facere dolorem omnis eveniet nesciunt nihil? Voluptatibus iure
-    vero laudantium molestias! Nemo et, odio vel molestiae temporibus, aliquam,
-    animi distinctio officia hic cum illo facilis a consectetur voluptatum quis
-    unde est! Similique dignissimos itaque eos magnam qui totam ipsa vero fugiat
-    quas? Animi praesentium expedita, molestiae laborum eos vel deserunt? Dolore
-    unde a rem accusamus in rerum optio, voluptas repellendus velit molestias
-    iste impedit voluptatem nostrum consequatur consectetur sequi consequuntur
-    est quae ex? Error earum nostrum vitae repudiandae sapiente blanditiis
-    necessitatibus ducimus, reiciendis, omnis eum corrupti? Eaque aspernatur
-    corrupti temporibus nisi voluptatem animi sapiente quod ex quam porro,
-    facilis, facere nemo consequatur deleniti iusto? Eveniet maiores id est
-    ducimus nesciunt corporis officia enim totam ab, labore corrupti quae
+    nobis. Eveniet exercitationem obcaecati temporibus saepe corporis,
+    voluptates culpa ea veniam expedita corrupti. Veniam eaque nulla veritatis,
+    exercitationem ipsam impedit modi aperiam eos! Voluptate neque unde dolores
+    recusandae rem dignissimos quo voluptatum repellat at? Sit optio assumenda
+    fugiat quo, doloremque necessitatibus quaerat commodi dolore cum rerum
+    laboriosam nostrum nobis rem et, porro dolores soluta aliquid facilis sequi
+    animi neque labore sed voluptates ipsa? Aperiam dignissimos placeat debitis
+    delectus expedita, facere dolorem omnis eveniet nesciunt nihil? Voluptatibus
+    iure vero laudantium molestias! Nemo et, odio vel molestiae temporibus,
+    aliquam, animi distinctio officia hic cum illo facilis a consectetur
+    voluptatum quis unde est! Similique dignissimos itaque eos magnam qui totam
+    ipsa vero fugiat quas? Animi praesentium expedita, molestiae laborum eos vel
+    deserunt? Dolore unde a rem accusamus in rerum optio, voluptas repellendus
+    velit molestias iste impedit voluptatem nostrum consequatur consectetur
+    sequi consequuntur est quae ex? Error earum nostrum vitae repudiandae
+    sapiente blanditiis necessitatibus ducimus, reiciendis, omnis eum corrupti?
+    Eaque aspernatur corrupti temporibus nisi voluptatem animi sapiente quod ex
+    quam porro, facilis, facere nemo consequatur deleniti iusto? Eveniet maiores
+    id est ducimus nesciunt corporis officia enim totam ab, labore corrupti quae
     reiciendis voluptatem beatae non repellat ipsam ullam obcaecati, cupiditate
     sapiente. Amet, quis. Voluptas, non suscipit nostrum reprehenderit ut ullam
     error at quibusdam fuga corrupti sequi. At eius eum odit delectus assumenda,
@@ -462,5 +464,10 @@ h3.why {
 }
 .my-card {
   padding: 20px 5px;
+}
+.inverted-commas {
+  color: #9cedaf;
+  font-weight: bolder;
+  font-size: 2.5rem;
 }
 </style>
